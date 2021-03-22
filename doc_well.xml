@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<docu>
+    <element>
+    <child> Figlio 1 </child>
+    <child> Figlio 2 </child>
+    <!-- ho aggiunto un figlio per element e un sibling per child -->
+    </element>
+    <nowell>
+        <over>
+
+        </over> <!-- over non era ben annidato -->
+    </nowell> <!-- il tag di chiusura aveva un nome diverso -->
+</docu>
