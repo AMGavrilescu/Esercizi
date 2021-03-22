@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<noNested>
+<nested>
+    <figlio>
+    <figliofiglio>Contenuto figlio</figliofiglio> <!-- tipologia del contenuto: testuale -->
+    Contenuto nodo figlio
+    </figlio>
+    Questo elemento è annidato correttamente
+</nested>
+<!-- nested è misto, ha come figli due entità, o nodi: un elemento e un frammento testuale -->
+ 
+ 
+<nogood>
+ 
+    <error>
+        Qui ci sono più gerarchie
+</nogood>
+ 
+    </error>
+ 
+</noNested>
