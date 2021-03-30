@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI [
+
+<!ELEMENT TEI (header,facsimile?,text+) >
+<!ELEMENT header (#PCDATA) >
+<!ATTLIST header type CDATA #FIXED "Ciao" >
+<!ELEMENT facsimile (#PCDATA) >
+<!ELEMENT text (#PCDATA) >
+
+]>
+
+<TEI>
+
+    <header>testo</header>
+
+    <facsimile>testo</facsimile>
+
+    <text>testo</text>
+
+</TEI>
