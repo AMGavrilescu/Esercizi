@@ -1,5 +1,13 @@
 <?xml version="1.1" encoding="UTF-8"?>
+
+<!-- Esercizio: Aprire il file XML non ben formato presente nel repository github: 
+- validarlo con un parser XML 
+- correggerlo (commentando gli errori e le modifiche) 
+- aggiungere un figlio (child) ad un elemento
+- aggiungere un fratello (sibling) ad un elemento. -->
+
 <docu>
+
     <element>
     <child> Figlio 1 </child>
     <child> Figlio 2 </child>
@@ -10,4 +18,5 @@
 
         </over> <!-- over non era ben annidato -->
     </nowell> <!-- il tag di chiusura aveva un nome diverso -->
+
 </docu>
