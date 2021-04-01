@@ -48,4 +48,5 @@ Creare un file esterno con estensione .dtd prima di includerlo nel prologo XML.
 
 File relativi: doctype_incluso.xml, doctype_reindirizzato.xml, doctype_reindirizzato.dtd
 
+
 6)
