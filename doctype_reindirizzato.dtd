@@ -1,0 +1,8 @@
+<!ELEMENT TEI (header,facsimile?,text+) >
+
+<!ELEMENT header (#PCDATA) >
+<!ATTLIST header type CDATA #REQUIRED >
+
+<!ELEMENT facsimile (#PCDATA) >
+
+<!ELEMENT text (#PCDATA) >
