@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+    <teiHeader>
+
+        <titleStmt>
+            <title>Novella "La maschera dimenticata": versione elettronica</title>
+            <respStmt>
+                <resp>Conversione TEI P% a cura di</resp>
+                <name>Ana Maria Gavrilescu</name>
+            </respStmt>
+        </titleStmt>
+       
+       <publicationStmt>
+            <publisher>Università di Pisa</publisher>
+            <date>02-05-2021</date>
+       </publicationStmt>
+
+        <sourceDesc><bibl>
+            <title>La maschera dimenticata</title>
+            <author>Luigi Pirandello</author>
+            <date>1918</date>
+        </bibl></sourceDesc>
+   
+    </teiHeader>
+    
+    <text>
+        <body>
+            <p>Nella sala già quasi piena per la riunione indetta dal Comitato elettorale in casa del candidato Laleva, tutti, vedendolo entrare zitto zitto zoppicante e con gli occhi fissi e cupi sotto la fronte grinzuta, s’erano voltati, stupiti, a mirarlo.</p>
+            
+            <div n="1"></div>
+           
+            <p>
+            Don Ciccino Cirinciò? Possibile? E chi lo aveva invitato?</p>
+           
+            <div n="2"></div>
+           
+            <p>Si sapeva che da anni e anni non s’immischiava più di nulla, tanto assorto com’era nelle sue sciagure: la morte della moglie e di due figliuoli, la perdita della zolfara dopo una sequela di liti giudiziarie, e la miseria: sciagure che avrebbe fatto meglio a portare in pubblico con dignità meno funebre, perché non spiccasse agli occhi di tutti i maldicenti del paese quel sigillo particolare di scherno con cui la sorte buffona pareva si fosse spassata a bollargliele, se era vero che la moglie gli fosse morta per aver partorito su la cinquantina non si sapeva bene che cosa: chi diceva un cagnolo, chi una marmotta; e che avesse perduto la zolfara per una virgola mal posta nel contratto d’affitto; e che zoppicasse così per una famosa avventura di caccia, nella quale invece dell’uccello era volato in aria lui con tutti gli stivaloni e lo schioppo e la carniera e il cane, investito dalle alacce d’un mulino a vento abbandonato sul poggio di Montelusa, le quali tutt’a un tratto s’erano messe a girare da sé; per cui ormai era inteso da tutti come don Ciccino Cirinciò «quello del mulino».</p>
+            
+            <div n="3"></div>
+            
+            <p>Cosa strana: se da qualche malcreato sentiva fare allusione a quel parto della moglie o a quella virgola nel contratto d’affitto, sorrideva triste o scrollava le spalle; ma nel sentirsi chiamare quello del mulino usciva dai gangheri, minacciava col bastone e urlava che il suo era un paese di carognoni imbecilli.</p>
+           
+            <div n="4"></div>
+           
+            <p>Ora questi carognoni imbecilli ecco che si maravigliavano del suo intervento alla riunione elettorale. Ma ci voleva tanto a pensare ch’egli doveva – prima di tutto – gratitudine eterna al vecchio avvocato don Francesco Laleva, padre del candidato d’oggi, l’unico tra tutti gli avvocati del foro che lo avesse ajutato e difeso nell’occasione delle liti per la zolfara? Queste liti, è vero, le aveva perdute; l’ajuto perciò, se vogliamo, era stato vano; ma che per questo? L’obbligo della gratitudine non restava forse per lui lo stesso, sacrosanto? E poi – a parte la gratitudine – ci voleva tanto forse a crederlo capace di un sentimento, che doveva in quell’ora esser comune a tutti i galantuomini, disgraziati e non disgraziati? Perdio, il sentimento della dignità del proprio paese! Era, sì o no, un cittadino anche lui? Le disgrazie, va bene; ma, come cittadino, non poteva esser forse indignato anche lui delle spudorate vergogne che il vecchio deputato uscente commetteva da venti anni impunemente? Non parlava; non aveva mai parlato, perché – le parole – vento! Ma ora ch’era venuto il tempo d’agire, sissignori; eccolo qua; si presentava da sé, non invitato, per mettersi a disposizione del figlio del suo antico e unico benefattore.</p>
+           
+            <div n="5"></div>
+           
+            <p>I radunati stettero un pezzo a mirarlo a bocca aperta; qualcuno si toccò con un dito la fronte, come per dire: <q>«Eh, che volete? gli s’è voltato il cervello, poveretto!»</q>. Perché sapevano tutti che non era vero che dovesse poi tanta gratitudine al padre del Laleva, il quale non lo aveva né ajutato né difeso; ma solo dissuaso dal mettersi in lite per quella zolfara maledetta. Se non che, a forza di ragionare tra sé e sé le sue disgrazie, chi sa, povero Cirinciò, com’era arrivato adesso a rappresentarsi uomini e cose, tutti gli avvenimenti della sua vita; e quali parti in questi lontani avvenimenti della sua vita attribuiva a presunti amici, a presunti nemici! E chi sa da che strambe ragioni era stato perciò indotto a presentarsi ora lì non invitato; e che cosa, nei misteriosi arzigogoli, nelle segrete previsioni del suo spirito conturbato, doveva rappresentare per lui questa sua partecipazione alla lotta politica in favore del figlio di don Francesco Laleva; che beneficii sbardellati se ne riprometteva, che tremendi pericoli e responsabilità s’immaginava di dovere affrontare… Ma sì, quegli occhi che lampeggiavano sotto la fronte aggrottata; quelle pugna serrate su i ginocchi… Povero don Ciccino!</p>
+           
+            <div n="6"></div>
+           
+            <p>Cirinciò, invece, guardava così, perché non riusciva a spiegarsi il perché di tutta quella meraviglia per la sua venuta.</p> 
+           
+            <div n="7"></div>
+           
+            <p>Vedendosi osservato, spiato da lontano con quell’aria di costernazione perplessa e afflitta, cominciò a entrare in sospetto, che non lo volessero lì. Aveva forse capito male l’invito del Comitato elettorale?</p>
+           
+            <div n="8"></div>
+           
+            <p>A un certo punto, non potendone più, s’alzò sdegnoso, e, zoppicando, s’accostò a domandarlo al Laleva: – Scusate, debbo rimanere o me ne debbo andare? Ho forse fatto male a venire?
+            <q>– Ma no! perché, caro don Ciccino? – s’affrettò a rispondergli il Laleva. – Siamo tutti felicissimi, e io particolarmente, della sua venuta! Ma si figuri! Segga, segga. L’ho per un onore; e ne ho tanto piacere!</q>
+            <q>«E allora?»</q>, domandò a se stesso Cirinciò, tornando a sedere. <q>«Perché tutti mi guardano così?»</q>Che ci fosse in lui qualche cosa ch’egli non vedeva e che gli altri vedevano? Perché in quel momento gli pareva proprio che potesse, come tutti gli altri, occuparsi delle elezioni, e che non ci fosse, in questo, nulla di straordinario.</p>
+           
+            <div n="9"></div>
+           
+            <p>Capiva bene, sì o no? Ma sì, perdio, che capiva benissimo tutte le discussioni che ora si facevano attorno – a lui su le probabilità più o meno di vittoria, sulla disposizione dei varii partiti locali in questo e in quel comune del collegio, sul computo dei voti favorevoli e contrarli; non solo, ma gli pareva anzi di veder più chiaro di certuni nella tattica da seguire verso qualche capoelettore ancora neutrale nella lotta. Tanto che a un certo punto, dimenticandosi del dubbio che lo aveva finora tenuto ingrugnato e sospettoso, non potè più trattenersi; s’alzò, prese la parola e in breve, con chiarezza e semplicità, espresse il suo concetto, come a lui pareva che si dovesse fare.</p>
+           
+            <div n="10"></div>
+           
+            <p>Fu nella sala uno sbalordimento generale; perché proprio nessuno riusciva a capacitarsi come mai don Ciccino Cirinciò potesse vedere così chiaro e giusto. Eppure, sì, era proprio quella la mossa da tentare; si doveva far proprio come diceva lui.</p>
+           
+            <div n="11"></div>
+           
+            <p>Tre, quattro volte, durante la lunga discussione, si rinnovò quello sbalordimento per il retto giudizio e la giustezza dei consigli e la finezza degli espedienti da lui suggeriti. Non pareva vero! Signori miei, don Ciccino Cirinciò… Ma parlava benissimo! Chi l’avrebbe creduto? Un oratore… Ma bravo! Ma bene! Viva Cirinciò!</p> 
+           
+            <div n="12"></div>
+           
+            <p>Più sbalordito di tutti, alla fine, perché da un canto non gli pareva proprio d’aver detto cose così straordinarie da suscitare tanto stupore, tanto fervore d’ammirazione; ma, dall’altro canto, mezzo ubriacato dagli applausi, Cirinciò si trovò designato da tutti a un posto di combattimento difficilissimo, nel comune di Borgetto, che si riteneva la cittadella inespugnabile del partito avversario.</p>
+           
+            <div n="13"></div>
+           
+            <p>Cercò di tirarsi indietro, con la scusa che non conosceva nessuno lì; che non c’era mai stato; disse anche che non erano imprese per lui; che aveva esposto così, in astratto, il suo modo di vedere, ma che all’atto pratico si sarebbe perduto. Non vollero neppur lasciarlo finire di parlare; lo costrinsero ad accettare quel posto di combattimento: e così, la mattina dopo, don Ciccino Cirinciò, provvisto di mezzi e di commendatizie, partì per Borgetto.</p>
+           
+            <div n="14"></div>
+           
+            <p>Vi fece miracoli, a detta di tutti, nei quindici giorni che precedettero l’elezione politica. Veri miracoli, se in due settimane riuscì a cambiare la posizione del Laleva in quel comune da così a così.</p>
+           
+            <div n="15"></div>
+           
+            <p>Fu per il bisogno di raggiungere e toccare una realtà qualunque nel vuoto strano, in cui quell’avventura impensata lo aveva così d’improvviso gettato? Vuoto arioso e lieve, nel quale tutti gli aspetti nuovi, d’uomini e di cose, gli apparivano come in una luce di sogno, nella freschezza di quell’azzurro di marzo corso da allegre nuvole luminose? O fu per il prorompere di tante energie ancor vive e ignorate, da anni e anni compresse in lui, soffocate dall’incubo delle sciagure? Energie giovanili, intatte, che lo avrebbero portato chi sa dove, chi sa a quali imprese, a quali vittorie, se la sua vita non si fosse chiusa come s’era chiusa nel lutto di quelle sciagure?</p>
+           
+            <div n="16"></div>
+           
+            <p>Il fatto è che operò miracoli in quel paesello dove nessuno lo conosceva. E certo perché nessuno lo conosceva.</p>
+           
+            <div n="17"></div>
+           
+            <p>Tutto fuori di sé, là, in preda a quelle energie insospettate e scatenate d’un subito in lui, affrontò imperterrito gli avversari, li forzò a discutere e a riconoscere prima gli errori e l’insipienza, poi la vergogna del loro vecchio deputato; e non si diede un momento di requie: ora qua a scrollare i titubanti; ora là a sventare un’insidia; a presiedere un comizio, a sfidare al contraddittorio anche lo stesso deputato uscente, o chi per lui: tutto quanto il paese!</p>
+           
+            <div n="18"></div>
+           
+            <p>Cose che non avrebbe mai supposto non che di poter dire, ma neppure di pensare lontanamente, gli venivano alle labbra, spontanee, con un’abbondanza e facilità di parola, un’efficacia d’espressioni, che ne restava lui stesso come abbagliato. Pareva che una vena nuova di vita gli fosse rampollata dentro, e si fosse messa a scorrere in lui con urgenza impetuosa. Coglieva a volo tutto, comprendeva tutto a un minimo cenno; e ogni cosa, dentro, pur restandogli nuova e fresca, gli diventava subito nota e propria; se n’impadroniva con quelle forze vergini, che non avevano potuto aver mai uno sfogo in lui, e che ora lo rendevano alacre e sicuro della vittoria, come un giovane, tra la frenesia che già aveva preso a bollire in tutti coloro che gli si facevano attorno sempre in maggior numero, e che a stento riuscivano a tenergli dietro in quella tumultuosa agitazione.</p>
+           
+            <div n="19"></div>
+           
+            <p>Non pensò più neanche d’aver una gamba zoppicante. Non gli faceva più male. Gli anni? Sessantadue, sì… Ma che voleva dire? Avanti! Era come se cominciasse ora la vita. Avanti! avanti! Qua, per il momento, c’era da correre a minacciare a quel signor assessore la denunzia delle cento schede trattenute ai soci del circolo operajo, poi a documentare il tentativo di corruzione del signor sindaco: il pagamento di cinquanta voti a dieci lire l’uno. Come documentarlo? Ma con le testimonianze, perdio! S’incaricava lui di far confessare quei contadini alla presenza d’un notajo, lui, lui… Avanti!</p>
+           
+            <div n="20"></div>
+           
+            <p>E così al giorno della vittoria, che pareva un altro, ricreato in quell’aura di popolarità, tra gente nuova, in un paese nuovo, preso d’assalto, messo sottosopra e conquistato in pochi giorni. E, la sera della proclamazione del nuovo eletto, si presentò raggiante nella vasta sala del Circolo dei «civili» dove era imbandita una splendida mensa in suo onore; per quanto già gli apparissero evidenti i segni della stanchezza nella vecchia maschera dimenticata.</p>
+           
+            <div n="21"></div>
+           
+            <p>Circolava intanto in quella sala, nell’attesa che i posti fossero assegnati nella mensa, un certo squallido ometto scontorto, dal cranio d’avorio, luccicante sotto i lumi. Quasi a nascondersi, teneva il capo insaccato nelle spallucce ossute, ma cacciava in tutti i crocchi la punta della barbetta arguta, gialliccia, come scolorita, e figgeva in faccia a questo e a quello gli occhietti lustri, acuti come due spilli, che gli spiccavano maligni nel cereo pallore del viso. Si fermava un momento a ripetere una domanda insistente alla quale era chiaro che non riceveva una risposta che lo soddisfacesse: negava col dito, scrollava le spalle, come se esclamasse: «Ma che! Ma che! Impossibile!», o stirava il volto sporgendo il labbro inferiore, come uno che non riesca a capacitarsi, e s’allontanava rivoltandosi a guardare di sfuggita e di sbieco, con quegli occhietti puntuti, Cirinciò.</p> 
+           
+            <div n="22"></div>
+           
+            <p>Cirinciò se n’accorse subito.</p>
+           
+            <div n="23"></div>
+           
+            <p>Pur tra il fervore entusiastico dell’accoglienza, si sentì ferire fin da principio da quegli occhietti. Cercò di sfuggirli, rituffandosi in mezzo alla confusione della festa. Ma di qua, di là, da vicino, da lontano, donde meno se l’aspettava, si sentiva pungere dalla fissità quasi spasimosa di quegli occhietti persecutori; e, appena punto, raggelare, sconcertare, rimescolar tutto da un sentimento oscuro che, facendogli impeto rabbiosamente, gli occupava come d’una tenebra di vertigine il cervello. Si ripigliava; ma avvertiva internamente che non gli era più possibile ormai tenersi fermo, che tutto, dentro, gli vagellava, non tanto per la persecuzione di quegli occhietti, di cui in fine non aveva nulla da temere, quanto perché… perché non lo sapeva bene lui stesso.</p> 
+           
+            <div n="24"></div>
+           
+            <p>Non era timore, non era vergogna; ma si sentiva come tratto di dentro a nascondersi e a scomparire da quella festa.</p>
+           
+            <div n="25"></div>
+           
+            <p>Troppo chiasso, oh Dio… troppo chiasso.</p>
+           
+            <div n="26"></div>
+           
+            <p>E andando in giro per la sala, intronato, faceva atto con le mani di smorzare i rumori.</p>
+           
+            <div n="27"></div>
+           
+            <p>Ma più faceva così, più si acuiva proprio fino allo spasimo in quei tali occhietti una curiosità pazzesca.</p>
+           
+            <div n="28"></div>
+           
+            <p>E allora Cirinciò cadde in preda a una così cupa esasperazione, che di fuori ebbe lo strano effetto di farlo apparire quasi cangiato all’improvviso.</p>
+           
+            <div n="29"></div>
+           
+            <p>Si riebbe un momento allorché tutti lo presero e lo portarono in trionfo a sedere a capo tavola; ma, cessata l’agitazione della cerca dei posti, appena tutti si furono accomodati, Cirinciò, volgendo lo sguardo in giro, ricadde più intronato che mai e nell’intronamento si fissò, come impietrato, vedendosi vicinissimo, a quattro posti di distanza, quell’ometto che seguitava a fissarlo, e ora ecco – allungava il collo verso di lui, con l’indice teso come un’arma presso uno di quegli occhietti diabolici, quasi a prender la mira, e gli domandava:<q>– Ma scusate, non siete don Ciccino Cirinciò, voi?</q></p>
+            <p>Non era sul nome la domanda. Non potevano capirlo gli altri; ma lui, sì, Cirinciò lo intese benissimo.</p>
+            <p>Che quegli fosse don Ciccino Cirinciò, glielo dovevano aver detto e ripetuto tutti cento volte, a quell’ometto. Ma appunto di questo non riusciva a capacitarsi quell’ometto: che cioè don Ciccino Cirinciò ch’egli tempo addietro aveva conosciuto, fosse questo che ora gli stava davanti… Questo? Possibile!
+            <q>– Quello del mulino?</q>
+            Si, sì, quello del mulino… Aveva ragione! Non era credibile! – Cirinciò adesso tutt’a un tratto lo riconosceva anche lui.</p>
+            <p>Non era credibile, non appariva più credibile neanche a lui stesso, che quello del mulino, lui, proprio lui, potesse trovarsi lì, in mezzo a quella festa, e che avesse potuto fare tutto quello che aveva fatto, senza saperne più il perché. </p>
+           
+            <div n="30"></div>
+           
+            <p>Che importava a lui, difatti, ora che con gli occhi di quell’ometto si vedeva rientrare in se medesimo con tutte le sue sciagure e la sua miseria, che importava più a lui della vittoria del Laleva? delle vergogne del deputato sconfitto?</p>
+            <div n="31"></div>
+            <p>Tutti i convitati, nel vederlo così d’un subito appassire, credettero in prima che fosse effetto di momentanea stanchezza, e cercarono di ravvivarlo con incitamenti e congratulazioni; ma si sentirono rispondere e agghiacciare con certi scemi e strascicati: – Già… già… – che rivelarono assente, lontano mille miglia dalla festa, lo spirito di lui.</p>
+           
+            <div n="32"></div>
+           
+            <p>E quando, il giorno appresso, Cirinciò se ne partì da Borgetto, ingrugnato, funebre, rispondendo a mala pena ai saluti, tutti restarono a guardarsi tra loro, non sapendo comprendere la ragione di un mutamento così improvviso, e parecchi avanzarono il sospetto che fosse un imbroglione, un miserabile impostore venuto a mistificarli.</p>
+
+        </body>
+    </text>
+
+</TEI>
