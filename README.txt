@@ -49,4 +49,12 @@ Creare un file esterno con estensione .dtd prima di includerlo nel prologo XML.
 File relativi: doctype_incluso.xml, doctype_reindirizzato.xml, doctype_reindirizzato.dtd
 
 
-6)
+6) Marcare un testo plain text di circa 3000 caratteri a piacere.
+inserire prologo XML
+marcare la struttura usando gli elementi fin qui descritti in particolare marcare tutti i paragrafi usando <p> e la struttura editoriale usando <div>
+verificare che sia ben formato con xmllint
+salvare il file XML su github
+
+File relativi: testo-marcato.xml
+
+7)
