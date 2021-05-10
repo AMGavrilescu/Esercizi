@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834</title>
+                <author>Vincenzo Bellini</author>
+                <respStmt>
+                    <resp>Trascrizione TEI a cura di:</resp>
+                    <name>Ana Maria Gavrilescu</name>
+                </respStmt>
+            </titleStmt>
+           
+            <editionStmt>
+                <edition>Edizione digitale <date when="2021-05">Maggio 2021</date>
+                </edition>
+                <respStmt>
+                    <resp>codifica a cura di:</resp>
+                    <name>Ana Maria Gavrilescu</name>
+                </respStmt>
+            </editionStmt>
+           
+            <sourceDesc>
+                <bibl>
+                    <author>Vincenzo Bellini</author>
+                    <date when="1834-06-26"/>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+       
+        <profileDesc>
+            
+            <correspDesc>
+
+                <correspAction type="sent">
+                    <persName>Vincenzo Bellini</persName>
+                    <date when="1834-06-27">27 giugno 1834</date>
+                </correspAction>
+               
+                <correspAction type="received">
+                    <persName>Carlo Pepoli</persName>
+                    <date when="1834-06-27">27 giugno 1834</date>
+                </correspAction>
+            
+            </correspDesc>
+        
+        </profileDesc>
+    
+    </teiHeader>
+    
+    <text>
+        <body xml:lang="ita">
+            <div type="opener">
+            
+                <s type="sentence"> 
+                    <dateline>
+                        <date>Juin 26</date>
+                        <placeName>Puteaux</placeName> –
+                        <address>
+                            <addrLine>N:° 19 bis rampe</addrLine> 
+                        </address>
+                        <hi>
+                        <placeName>de Neuilly</placeName>
+                        </hi>
+                    </dateline>
+
+                </s>
+
+            </div>
+
+            <div>
+                <s>
+                    <salute>
+                        <hi>Mio caro <persName>Carluccio</persName></hi>
+                    </salute>
+                </s>
+
+                <s>
+                    <lb/>Avendo steso l'intero duetto
+                </s>
+
+            </div>
+        </body>
+    </text>
+
+</TEI>
