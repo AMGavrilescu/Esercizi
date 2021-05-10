@@ -57,4 +57,17 @@ salvare il file XML su github
 
 File relativi: testo-marcato.xml
 
-7)
+
+7)Utilizzare puntatori, note, lista, glossario marcare nomi, rs, term.
+
+8)Esercizi documenti di tipo e genere diversi
+codificare usando gli opportuni elementi TEI un articolo di rivista
+codificare usando gli opportuni elementi TEI una cartolina
+
+9) Trascrivere e codificare un frammento di lettera di Bellini
+(Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834)
+
+File relativi: frammento-lettera-bellini.xml
+
+
+10)
