@@ -58,9 +58,9 @@ salvare il file XML su github
 File relativi: testo-marcato.xml
 
 
-7)Utilizzare puntatori, note, lista, glossario marcare nomi, rs, term.
+7) Utilizzare puntatori, note, lista, glossario marcare nomi, rs, term.
 
-8)Esercizi documenti di tipo e genere diversi
+8) Esercizi documenti di tipo e genere diversi
 codificare usando gli opportuni elementi TEI un articolo di rivista
 codificare usando gli opportuni elementi TEI una cartolina
 
