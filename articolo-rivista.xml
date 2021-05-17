@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>In Nord America ci sono no-mask pronti a usare le mascherine per 'proteggersi' dai vaccinati</title>
+                <author>Mack Lamoureux</author>
+                <respStmt>
+                    <resp>Edizione digitale e conversione TEI P5 a cura di:</resp>
+                        <name>Ana Maria Gavrilescu</name>
+                </respStmt>
+            </titleStmt>
+
+            <editionStmt>
+                <edition>Edizione TEI P5
+                    <date>17 maggio 2021</date>
+                </edition>
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>www.vice.com</publisher>
+                <date>13 maggio 2021</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl type="article">
+                    <title level="a">In Nord America ci sono no-mask pronti a usare le mascherine per 'proteggersi' dai vaccinati - versione elettronica</title>
+                    <author>Mack Lamoureux</author>
+                    <publisher>Pubblicato per la prima volta in forma digitale su www.vice.com</publisher>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+
+    <text>
+
+        <front>
+            <head>In Nord America ci sono no-mask pronti a usare le mascherine per 'proteggersi' dai vaccinati</head>
+            <p>Una teoria del complotto—totalmente infondata—sullo "spargimento virale" sta spingendo alcuni antivaccinisti a pensare di indossare le odiate mascherine.</p>               
+         </front>
+
+        <body>
+            <div type="corpo_articolo">          
+
+                <p>
+                Nella comunità antivaccinista dell’America del Nord si sta facendo strada una teoria che potrebbe spingere i cosiddetti “no-mask” a fare l’impensabile: indossare una mascherina e praticare il distanziamento sociale.
+                </p>
+
+                <p>
+                Stando alla suddetta teoria, apparsa in varie forme e versioni, <hi>le persone vaccinate “spargerebbero” pericolose proteine verso i non vaccinati</hi>, causando numerose reazioni avverse—tra cui cicli mestruali irregolari, infertilità e aborti spontanei. Questa idea rientra nella più generale convinzione che il COVID-19 sia un modo per ridurre la popolazione mondiale, e i vaccini un’arma di sterminio di massa.
+                </p>
+
+                <p>
+                Gli esperti hanno <hi>ripetutamente smontato la teoria del complotto</hi>, che nasce in primo luogo dalle scarse conoscenze dei sostenitori circa l’effettivo funzionamento dei vaccini.
+                </p> 
+
+                <p> 
+                Alcuni personaggi molto in vista nella comunità antivaccinista stanno tuttavia proponendo rimedi per proteggersi dallo “spargimento”—incluso l’odiato distanziamento sociale. In una recente diretta, ad esempio, l’influencer statunitense <hi>Sherri Tenpenny</hi> ha invitato gli ascoltatori a “stare lontani da chi ha ricevuto queste dosi, per sempre.”
+                </p>
+
+                <p>
+                Un altro antivaccinista americano, il <hi>pediatra di New York Larry Palevsky</hi>, ha proposto di mettere in quarantena i vaccinati. <q>“Chi ha ricevuto questo veleno,”</q> ha detto, <q>“passa qualcosa a chi non l’ha ancora fatto”</q>. Lo stesso ha aggiunto che i vaccinati dovrebbero indossare <q>“una fascia sul braccio”</q> per essere riconoscibili, <q>“così sappiamo che dobbiamo evitarli quando li incrociamo.”</q>
+                </p>
+
+                <p>
+                Anche se la teoria è completamente infondata, la paura che suscita in chi ha dubbi sui vaccini è reale. E quando qualcuno è impaurito, ci sono sempre soldi da fare.
+                </p>
+
+                <p>
+                In una diretta sul canale di un “cittadino sovrano” canadese, Judy Mikovits—una ex dottoressa antivaccinista, diventata famosa dopo essere apparsa nel <hi>documentario complottista <distinct>Plandemic</distinct></hi> uscito nel maggio del 2020—si è soffermata a lungo sulla teoria dello “spargimento” virale.
+                </p>
+
+                <p>
+                Per l’antivaccinista, insomma, queste mascherine sono le uniche che funzionano sia contro il COVID-19 che contro lo “spargimento virale” da vaccini—e quindi qualcuno le comprerà sicuramente.
+                </p>
+
+                <p>
+                Drew, un ricercatore antifascista <hi>che ha segnalato per primo l’inedita posizione di Mikovits sul tema</hi> (e che non ha fornito il nome completo per timore di ripercussioni), non è però convinto che chi è sempre stato contrario alle mascherine inizierà a usarle. <q>“Se le indossano, tutti gli slogan che hanno ripetuto nell’ultimo anno, come ad esempio ‘toglietevi il bavaglio’, appariranno ridicoli,”</q> ha detto a VICE World News.
+                </p>
+
+                <p>
+                Nonostante ciò, la teoria sta comunque facendo proseliti. Recentemente, <hi>una scuola privata di Miami ha impedito agli insegnanti vaccinati di “avere interazioni” con gli studenti non vaccinati.</hi>
+                </p>
+
+                <p>
+                Ad aprile, un negozio a Kelowna (una città canadese nella regione della Columbia Britannica) ha affisso <hi>un cartello per vietare l’accesso ai vaccinati</hi>, citando proprio lo “spargimento”. Un altro cartello invitava inoltre i consumatori ad “abbassarsi il pannolone” dalla faccia una volta dentro il locale.
+                </p>
+
+
+            </div>
+        </body>
+
+    </text>
+
+</TEI>
