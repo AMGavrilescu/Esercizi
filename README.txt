@@ -64,10 +64,17 @@ File relativi: testo-marcato.xml
 codificare usando gli opportuni elementi TEI un articolo di rivista
 codificare usando gli opportuni elementi TEI una cartolina
 
+File relativi: articolo-rivista.xml
+
 9) Trascrivere e codificare un frammento di lettera di Bellini
 (Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834)
 
 File relativi: frammento-lettera-bellini.xml
 
 
-10)
+10) Edizioni image-based: Esercizio 
+Codificare la lettera Bellini utilizzando il tagset facsimile e il collegamento completo testo-immagine.
+
+File relativi: 
+
+11) 
